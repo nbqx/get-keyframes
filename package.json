@@ -1,0 +1,15 @@
+{
+  "name": "get-keyframes",
+  "description": "get keyframes in avi file(not tested yet + very experimental)",
+  "version": "0.0.0",
+  "author": "nbqx",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nbqx/get-keyframes.git"
+  },
+  "homepage": "https://github.com/nbqx/get-keyframes",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
